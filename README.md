@@ -42,3 +42,6 @@ This project demonstrates the complete workflow of a machine learning classifica
 - Wejdan Hakami (GitHub: https://github.com/wejdan-h)
 - Raghad Oteef (GitHub: https://github.com/raghad-o)
 - Aryam Zalaei (GitHub: https://github.com/Aryam-Z)
+- Razan Majed Hakami
+- Aisha Yahya Ahmed 
+- Rahaf essa Mohammad hakami
